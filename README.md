@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ProfessorNik
 - 👀 I’m interested in Java backend
-- 🌱 I’m currently learning c++ because of university
+- 🌱 I’m currently learn Java and Java backend technology stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
